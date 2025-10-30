@@ -20,6 +20,7 @@ export default function Benefits(props) {
               alt="Benefits"
               layout="intrinsic"
               placeholder="blur"
+              unoptimized
             />
           </div>
         </div>

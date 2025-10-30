@@ -47,6 +47,7 @@ export default function Hero() {
               layout="intrinsic"
               loading="eager"
               placeholder="blur"
+              unoptimized
             />
           </div>
         </div>
